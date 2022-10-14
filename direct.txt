@@ -1,0 +1,5 @@
+payload:
+  - 'edge.microsoft.com'
+  - '+.saic-gm.com'
+  - '+.saic-gm.net'
+  - '+.shanghaionstar.com'
