@@ -2,6 +2,7 @@ payload:
   - 'edge.microsoft.com'
   - 'microsoft.com'
   - 'microsoftonline.com'
+  - 'msn.com'
   - '+.saic-gm.com'
   - '+.saic-gm.net'
   - '+.shanghaionstar.com'
