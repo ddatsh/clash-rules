@@ -1,2 +1,2 @@
 payload:
-  - '+.cnbeta.com'
+  - 'cnbeta.com'
